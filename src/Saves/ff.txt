@@ -1,0 +1,9 @@
+[[com.example.DB.Tile@2addb903, com.example.DB.Tile@4211663d], [com.example.DB.Tile@da04f2c, com.example.DB.Tile@4a72fa3a]]
+0
+0,hj,0x800080ff,0
+1,yk,0x0000ffff,0
+p_end
+falsefalsefalsefalse
+b_end
+falsefalsefalsefalsefalsefalse
+falsefalsefalsefalsefalsefalse

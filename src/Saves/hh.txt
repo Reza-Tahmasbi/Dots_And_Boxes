@@ -1,0 +1,10 @@
+[[com.example.DB.Tile@1accb690, com.example.DB.Tile@55b8802e, com.example.DB.Tile@666e794c, com.example.DB.Tile@63253d57, com.example.DB.Tile@1c227f95], [com.example.DB.Tile@183b993b, com.example.DB.Tile@52bed0ee, com.example.DB.Tile@5d6fd3fb, com.example.DB.Tile@11731d4, com.example.DB.Tile@4521928c], [com.example.DB.Tile@426fe4a1, com.example.DB.Tile@7acef4a9, com.example.DB.Tile@3332ac8e, com.example.DB.Tile@32942ebd, com.example.DB.Tile@f639ea2], [com.example.DB.Tile@24f5d259, com.example.DB.Tile@3707e1bc, com.example.DB.Tile@2482ef70, com.example.DB.Tile@cedac2b, com.example.DB.Tile@680d0f5]]
+0
+0,sagab,0xffff00ff,22
+1,fds,0x000080ff,8
+2,gsd,0x00ff00ff,12
+p_end
+truetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetrue
+b_end
+truetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetrue
+truetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetruetrue
